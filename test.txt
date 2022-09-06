@@ -1,2 +1,3 @@
 Test me GitHub.
 Fajlli numer 1.
+Pastaj fajlli me numer 2.
